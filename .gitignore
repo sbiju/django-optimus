@@ -1,0 +1,14 @@
+*.pyc
+__pycache__
+virtualenv
+db.sqlite3
+/static
+.DS_Store
+.idea
+local
+lib/python2.7
+media
+bin
+include
+pip-selfcheck.json
+
